@@ -18,8 +18,8 @@ git add .gitattributes // .gitattributes is autometically generated file.
 There is no step three. 
 Just commit and push to GitHub as you normally would :)
 
-git add file.mp4
-git commit -m "Add video file"
+git add file.mp4 <br/>
+git commit -m "Add video file" <br/>
 git push origin master
 
 
